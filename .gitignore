@@ -1,0 +1,18 @@
+# 构建产物
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# 个人运行时配置(含 DPAPI 加密后的密码，切勿上传)
+config.json
+
+# IDE / 用户文件
+.vs/
+*.user
+*.suo
+
+# 系统
+Thumbs.db
+Desktop.ini
