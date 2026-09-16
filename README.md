@@ -46,6 +46,10 @@ dotnet build -c Release
 
 自定义 base64 字母表：`LVoJPiCN2R8G90yg+hmFHuacZ1OWMnrsSTXkYpUq/3dlbfKwv6xztjI7DeBE45QA`
 
+## 许可证
+
+[MIT](LICENSE)
+
 ## 目录结构
 
 ```
